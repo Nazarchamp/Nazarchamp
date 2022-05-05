@@ -1,4 +1,4 @@
-![Old school tech](assets/vintage.jpg "Old school tech")
+![Old school tech](assets/new.jpg "Old school tech")
 
 ## About me
 
