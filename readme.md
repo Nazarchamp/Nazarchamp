@@ -9,22 +9,22 @@ C#. Do you wanna know more? Get in touch. I can't wait to hear from you.
 
 ### Skills
 
-![](https://img.shields.io/badge/code-python-informational?style=for-the-badge&logo=python&logoColor=white&color=a49b92)
-![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=a49b92)
-![](https://img.shields.io/badge/code-typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=a49b92)
-![](https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=a49b92)
-![](https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=a49b92)
-![](https://img.shields.io/badge/code-java-informational?style=for-the-badge&logo=java&logoColor=white&color=a49b92)
-![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=a49b92)
-![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=a49b92)
-![](https://img.shields.io/badge/db-sql-informational?style=for-the-badge&logo=sql&logoColor=white&color=a49b92)
+![](https://img.shields.io/badge/code-python-informational?style=for-the-badge&logo=python&logoColor=white&color=fd9b2e)
+![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=fd9b2e)
+![](https://img.shields.io/badge/code-typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=fd9b2e)
+![](https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=fd9b2e)
+![](https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=fd9b2e)
+![](https://img.shields.io/badge/code-java-informational?style=for-the-badge&logo=java&logoColor=white&color=fd9b2e)
+![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=fd9b2e)
+![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=fd9b2e)
+![](https://img.shields.io/badge/db-sql-informational?style=for-the-badge&logo=sql&logoColor=white&color=fd9b2e)
 
 ### My stats
 
 <a href="https://github.com/mrspecht">
-  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=Nazarchamp&theme=vue&show_icons=true" alt="My GitHub stats" />
+  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=Nazarchamp&theme=vue&show_icons=true&color=fd9b2e" alt="My GitHub stats" />
 </a>
 <a href="https://github.com/mrspecht">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazarchamp&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazarchamp&theme=vue&hide=Ruby&show_icons=true&langs_count=3&color=fd9b2e" alt="My 
   GitHub stats"/>
 </a>
