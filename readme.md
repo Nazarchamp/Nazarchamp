@@ -21,10 +21,10 @@ C#. Do you wanna know more? Get in touch. I can't wait to hear from you.
 
 ### My stats
 
-<a href="https://github.com/mrspecht">
+<a href="https://github.com/Nazarchamp">
   <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=Nazarchamp&theme=slateorange&show_icons=true&color=fd9b2e" alt="My GitHub stats" />
 </a>
-<a href="https://github.com/mrspecht">
+<a href="https://github.com/Nazarchamp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazarchamp&theme=slateorange&hide=Ruby&show_icons=true&langs_count=3" alt="My 
   GitHub stats"/>
 </a>
