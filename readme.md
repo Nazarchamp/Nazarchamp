@@ -48,6 +48,8 @@ I'm particularly proud of the improvement in my web design skills between PTEC w
 
 [Technical Writing Personal Portfolio (Adapted from MITT Intro to Web Dev Final Assigment)](https://github.com/Nazarchamp/Personal-Portfolio)
 
-[Tools and Automation Markdown Assigmnet](https://github.com/Nazarchamp/Dialog-Tutorial)
+[Tools and Automation Markdown Assignmet](https://github.com/Nazarchamp/Dialog-Tutorial)
 
-[Tools and Automation Final Assigment (Using GIT to collaborate with another student on a project)](https://github.com/Nazarchamp/Final-Tools-and-Automation)
+[Tools and Automation Final Assignment (Using GIT to collaborate with another student on a project)](https://github.com/Nazarchamp/Final-Tools-and-Automation)
+
+[Coursework for Intro to React](https://github.com/Nazarchamp/MITT-Intro-To-React)
