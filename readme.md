@@ -48,8 +48,17 @@ I'm particularly proud of the improvement in my web design skills between PTEC w
 
 [Technical Writing Personal Portfolio (Adapted from MITT Intro to Web Dev Final Assigment)](https://github.com/Nazarchamp/Personal-Portfolio)
 
-[Tools and Automation Markdown Assignmet](https://github.com/Nazarchamp/Dialog-Tutorial)
+[Tools and Automation Markdown Assignment](https://github.com/Nazarchamp/Dialog-Tutorial)
 
 [Tools and Automation Final Assignment (Using GIT to collaborate with another student on a project)](https://github.com/Nazarchamp/Final-Tools-and-Automation)
 
 [Coursework for Intro to React](https://github.com/Nazarchamp/MITT-Intro-To-React)
+
+### Manitoba Institute of Trades and Technology Courses with Back-End Development Components
+[Data Structures and Algorithms Coursework](https://github.com/Nazarchamp/MITT-Data-Structures-And-Algorithms)
+
+[Object Oriented Programming Fundamentals Coursework](https://github.com/Nazarchamp/MITT-Object-Oriented-Programming-Fundamentals)
+
+[Introduction to Number Systems and Desktop Applications Final Project](https://github.com/Nazarchamp/MITT-Number-Systems-And-Desktop-Apps-Final)
+
+Note: a large portion of backend courses and coursework involved writeups and tests/exams, as well as working with large DBs, because of this, not a lot of my coursework can be uploaded to Github.
