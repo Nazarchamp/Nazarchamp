@@ -37,7 +37,7 @@ Listed below are the repositories of some of the coursework I completed at Pembi
 
 I would like to point out the drastic improvement in web design skills between PTEC web-dev and MITT web-dev
 ### Pembina Trails Early College Web Development Course
-[Midterm Project (Written in React as challenged by teacher)](https://github.com/Nazarchamp/React-Project)
+[Midterm Project (Teacher challenged me to use React)](https://github.com/Nazarchamp/React-Project)
 
 [Midterm Project Bonus (Introduce advanced CSS Topics into Previous Website)](https://github.com/Nazarchamp/CSS-Bonus-Mark-Project-Incorporated-Into-React)
 
