@@ -7,7 +7,7 @@ I'm a dedicated software developer able to proficiently work autonomously or col
 My programming experience includes Python, VB, COBOL, SQL, JavaScript, TypeScript, Angular, React, and
 C#. 
 
-Do you wanna know more? Get in touch. I can't wait to hear from you.
+Do you wanna know more? Get in touch through my [LinkedIn](www.linkedin.com/in/nazar-viznytsya). I can't wait to hear from you.
 
 ### Skills
 
