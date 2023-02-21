@@ -35,7 +35,7 @@ Do you wanna know more? Get in touch through my [LinkedIn](https://www.linkedin.
 ## Coursework
 Listed below are the repositories of some of the coursework I completed at Pembina Trails Early College as well as while taking dual-credit courses at the Manitoba Institute of Trades and Technology.
 
-I would like to point out the drastic improvement in web design skills between PTEC web-dev and MITT web-dev
+I'm particularly proud of the improvement in my web design skills between PTEC web-dev and MITT web-dev
 ### Pembina Trails Early College Web Development Course
 [Midterm Project (Teacher challenged me to use React)](https://github.com/Nazarchamp/React-Project)
 
