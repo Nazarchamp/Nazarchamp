@@ -25,7 +25,7 @@ Do you wanna know more? Get in touch through my [LinkedIn](https://www.linkedin.
 ### My stats
 
 <a href="https://github.com/Nazarchamp">
-  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=Nazarchamp&theme=slateorange&show_icons=true&color=fd9b2e&rank_icon=github&include_all_commits=true" alt="My GitHub stats" />
+  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=Nazarchamp&theme=slateorange&show_icons=true&color=fd9b2e&hide_rank=true&rank_icon=github&include_all_commits=true" alt="My GitHub stats" />
 </a>
 <a href="https://github.com/Nazarchamp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazarchamp&theme=slateorange&hide=Ruby&show_icons=true&langs_count=3" alt="My 
